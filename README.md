@@ -10,8 +10,8 @@ This repository contains my self-introduction video submitted as part of the cou
 
 ## 👤 Student Information
 
-* **Name:** Nancy Sharma
-* **Registration Number:** 23BHI10194
+* **Name:** T Aditya Sasidhar
+* **Registration Number:** 23AI10167
 * **Course Code:** PLA1006
 * **Slot:** F22
 * **Class no:** AB02-216
